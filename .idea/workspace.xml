@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28bb439b-6fc0-40e5-8924-3d5681e49209" name="Default Changelist" comment="2021.02.05 CodeIt, Study">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankPerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/For.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/JOYONGSIK/Java-Codeit" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1o0LmnvzdCbh8ciSy7xCTosIwm2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.BankDriver">
+    <configuration name="Array_Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Q1" />
+      <module name="Java-Codeit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Q2" />
+      <module name="Java-Codeit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankDriver" />
+      <module name="Java-Codeit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BankDriver" />
+        <item itemvalue="Application.Array_Q2" />
+        <item itemvalue="Application.Array_Q1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28bb439b-6fc0-40e5-8924-3d5681e49209" name="Default Changelist" comment="" />
+      <created>1612418724868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612418724868</updated>
+      <workItem from="1612418727689" duration="588000" />
+      <workItem from="1612514622115" duration="6712000" />
+      <workItem from="1612527231584" duration="24000" />
+      <workItem from="1612600182844" duration="2532000" />
+      <workItem from="1612687860906" duration="46000" />
+      <workItem from="1612688926882" duration="652000" />
+    </task>
+    <task id="LOCAL-00001" summary="2021.02.04 CodeIt, Study">
+      <created>1612418979610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612418979610</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2021.02.05 CodeIt, Study">
+      <created>1612521811026</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612521811026</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2021.02.04 CodeIt, Study" />
+    <MESSAGE value="2021.02.05 CodeIt, Study" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.02.05 CodeIt, Study" />
+  </component>
+</project>
